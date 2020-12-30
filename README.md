@@ -11,7 +11,7 @@
     </tr>
     <tr>
         <td>Lista Encadeada</td>
-        <td>-</td>
+        <td>Ok</td>
     </tr>
     <tr>
         <td>Lista duplamente Encadeada</td>
