@@ -1,32 +1,36 @@
-<h1>Principais Estruturas de dados</h1>
-
+<h1>Estruturas de dados básicas</h1>
+<h3>Cada estrutura com um PDF para explicação</h3>
 <table border="2">
     <tr>
         <th>Estrutura de dados</th>
         <th>Situação</th>
     </tr>
     <tr>
-        <td>Array</td>
+        <td>1 - Array</td>
         <td>Ok</td>
     </tr>
     <tr>
-        <td>Lista Encadeada</td>
+        <td>2 - Lista Encadeada</td>
         <td>Ok</td>
     </tr>
     <tr>
-        <td>Lista duplamente Encadeada</td>
-        <td>-</td>
+        <td>3 - Lista duplamente Encadeada</td>
+        <td>Ok</td>
     </tr>
     <tr>
-        <td>Fila</td>
-        <td>-</td>
+        <td>4 - Fila</td>
+        <td>Ok</td>
     </tr>
     <tr>
-        <td>Pilha</td>
-        <td>-</td>
+        <td>5 - Pilha</td>
+        <td>Ok</td>
     </tr>
     <tr>
-        <td>Árvore</td>
-        <td>-</td>
+        <td>6 - Árvore</td>
+        <td>Ok</td>
+    </tr>
+    <tr>
+        <td>7 - Lista Circular</td>
+        <td>Ok</td>
     </tr>
 </table>

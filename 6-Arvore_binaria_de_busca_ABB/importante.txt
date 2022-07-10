@@ -1,0 +1,8 @@
+Olá professora. Implementei o remover da ABB de forma Iterativa e fiz outra Implementação onde eu faço chamada recursiva.
+
+A que eu implementei de forma Iterativa tá mais organizada, pode facilitar na correção, então pode corrigir ela.
+Se sobrar tempo dá uma olhadinha na outra resolução, pra ver se eu implementei da maneira correta o remover. 
+
+Att, Paulo Henrique Diniz de Lima Alencar.
+
+
